@@ -1,0 +1,9 @@
+Flask==0.12.2
+Jinja2==2.9.6
+MarkupSafe==1.0
+Werkzeug==0.12.2
+click==6.7
+gunicorn==19.7.1
+itsdangerous==0.24
+python-ldap==2.4.40
+wsgiref==0.1.2
